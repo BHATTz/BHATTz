@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" alt="Coding" src="https://i.gifer.com/bJk.gif"  />
+<img align="right" height="150" alt="Coding" src="bJk.gif"  />
 
 ###
 
@@ -68,9 +68,5 @@
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/BHATTz/BHATTz/output/snake.svg" alt="Snake animation" />
 
 ###
