@@ -71,6 +71,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/BHATTz/BHATTz/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/BHATTz/BHATTz/output/snake.svg" alt="Snake animation" />
 
 ###
